@@ -1,0 +1,17 @@
+{
+  "translation": {
+    "Home": {
+      "title": "Home",
+      "myName": "Hello, I'm {{name}} 👋🏻"
+    },
+    "About": {
+      "title": "About"
+    },
+    "Experience": {
+      "title": "Experience"
+    },
+    "Contact": {
+      "title": "Contact"
+    }
+  }
+}
